@@ -1,4 +1,4 @@
-# Simplified Blackjack - Procedural
+hp\# Simplified Blackjack - Procedural
 
 ## Learning Goals
 
